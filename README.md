@@ -302,7 +302,7 @@ https://roadmap.sh/system-design
 
 ## Message Brokers
 
-(In Progress) - https://roadmap.sh/aspnet-core/microservices/message-brokers/rabbit-mq
+(In Progress) - https://developer.confluent.io/get-started/nodejs/
 
 ## Web Servers
 
