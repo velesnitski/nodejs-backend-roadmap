@@ -3,6 +3,9 @@
 ## Give a Star! ⭐
 > If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+# Node.js Backend Engineer Classic Roadmap
+>https://roadmap.sh/nodejs
+
 <br/>
 <details><summary><i><b>Table of Contents</b></i></summary>
 
@@ -55,7 +58,7 @@
     - [CodeWars](https://www.codewars.com/) (English)
     - [TheAlgorithms](https://the-algorithms.com/) (English)
     - [Codeforces](https://codeforces.com/) (English)
-    - [Quera](https://quera.org/) (Persian)
+    
 
   - **Repository**
     - [Coding University](https://github.com/jwasham/coding-interview-university) (English)
@@ -74,8 +77,7 @@
   - **Video**
     - [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk?si=IaT517Uwcqr_Z_2M) (English) (Paid)
     - [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course) (English) (Paid)
-    - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
-
+   
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
     - [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/) (English) (Paid)
@@ -88,12 +90,10 @@
 
   
   - **Book**
-    - [Eloquent JavaScript](https://eloquentjs.ir/) (Persian) (Free)
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (English) (Free)
     - [JavaScript: The Definitive Guide](https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024/) (English) (Paid)
     - [Head First JavaScript Programming](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X) (English) (Paid)
   - **Platform**
-    - [Ditty](https://ditty.ir/c/javascript) (Persian) (Free)
     - [w3schools](https://www.w3schools.com/javascript/default.asp) (English) (Free)
     - [javascript.info](https://javascript.info/) (English) (Free)
     
@@ -199,8 +199,7 @@ Choose a library according to your project requirements and do not get confused 
 - **Video**
   
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English) (Free)
-  - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2) (Persian) (Free)
-
+ 
  - **Platform**
     - [Linux Journey](https://linuxjourney.com/) (English)
 
@@ -262,8 +261,7 @@ Choose a library according to your project requirements and do not get confused 
   - **Video**
     - [Docker Tutorial for Beginners with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) (English) (Free)
     - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course) (English) (Paid)
-    - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
-
+   
 - ### Kubernetes
   
   - **Video**
@@ -349,4 +347,4 @@ Choose a library according to your project requirements and do not get confused 
 
 Feel free to contribute and add more resources.
 
-First time contributing to a repository? For more information about the steps and guides, check out [this repository](https://github.com/firstcontributions/first-contributions). ([Also available in Persian](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.fa.md))
+First time contributing to a repository? For more information about the steps and guides, check out [this repository](https://github.com/firstcontributions/first-contributions). 
