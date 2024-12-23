@@ -247,7 +247,7 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Testing
 
-(In Progress)
+Vitest / Jest  / node:test / Cypress / Playwright / TestCafe / Puppeteer /
 
 ## Container Platforms
 
@@ -287,7 +287,7 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Design Principles
 
-(In Progress)
+https://roadmap.sh/system-design
 
 ## Design Patterns
 
@@ -302,7 +302,7 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Message Brokers
 
-(In Progress)
+(In Progress) - https://roadmap.sh/aspnet-core/microservices/message-brokers/rabbit-mq
 
 ## Web Servers
 
@@ -322,11 +322,11 @@ Choose a library according to your project requirements and do not get confused 
 
 ## Distributed Systems
 
-(In Progress)
+(In Progress) - https://roadmap.sh/software-design-architecture/architectural-styles/distributed
 
 ## Reactive Systems
 
-(In Progress)
+(In Progress) - https://roadmap.sh/flutter/reactive-programming
 
 ## Security
 - **Book**
@@ -334,14 +334,6 @@ Choose a library according to your project requirements and do not get confused 
 - **WebSite**
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/) (English) (Free)
 
-
-## Where to Go Next?
-
-(In Progress)
-
-## Who to Follow Then?
-
-(In Progress)
 
 ## Contribution
 
